@@ -1,4 +1,4 @@
-<b>🏆Seja Bem Vindo sou o João Victor, 💻Um pouco sobre minha carreira de Web Designer: </b>
+<b>🏆Seja Bem Vindo, sou o João Victor, 💻Um pouco sobre minha carreira de Web Designer: </b>
 
 <b>👀Abaixo as Tecnológias que estou me especializando: </b>
 <div style="display: inline_block"><br>
