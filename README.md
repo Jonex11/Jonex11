@@ -1,4 +1,4 @@
-<b>🏆Seja Bem Vindo, sou o João Victor, 💻Um pouco sobre minha carreira de Web Designer: </b>
+<b>🏆Seja Bem Vindo, sou o João Victor, 💻Um pouco sobre minha carreira em Analise de Dados: </b>
 
 <b>👀Abaixo as Tecnológias que estou me especializando: </b>
 <div style="display: inline_block"><br>
@@ -15,9 +15,9 @@
     <b> 
   🏆Curiosidades sobre minha carreira:
       
-  🥈 Estudo Analise e Desenvolvimento de Sistemas na Faculdade: Cruzeiro do Sul.
+  🥈 Estudo Ciência de Dados na Faculdade: Cruzeiro do Sul.
   🥇 Atualmente tenho focado no meu portifolio, trazendo experiência de codificação, interpretação e resolução de problemas.
-  🥉Estou adentrando a carreira de Web Designer, me especializando na area através da faculdade e cursos voltados no assunto. 
+  🥉Estou adentrando a carreira de Analise de Dados, me especializando na area através da faculdade e cursos voltados no assunto. 
 </b>
     </div>
   </pre>
